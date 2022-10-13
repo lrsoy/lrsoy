@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lrsoy&theme=high-contrast)
