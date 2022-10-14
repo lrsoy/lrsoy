@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrsoy&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lrsoy&hide_title=true&show_icons=true&theme=tokyonight"/>
+<div>
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrsoy&layout=compact&theme=tokyonight"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=lrsoy&hide_title=true&show_icons=true&theme=tokyonight"/>
 </div>
 
 
