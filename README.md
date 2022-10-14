@@ -30,3 +30,5 @@ Here are some ideas to get you started:
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrsoy&hide_title=true&layout=compact&theme=tokyonight"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lrsoy&hide_title=true&show_icons=true&theme=tokyonight"/>
 </div>
+
+<div align="left"> <img src="https://metrics.lecoq.io/lrsoy?template=classic&config.timezone=Asia%2FShanghai"> </div>
