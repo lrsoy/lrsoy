@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrsoy&hide_title=true&text_color=ffffff&layout=compact&bg_color=-15,a18cd1,fbc2eb&theme=graywhite"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lrsoy&hide_title=true&text_color=ffffff&show_icons=true&icon_color=fff&bg_color=-15,EACCF8,6654F1&theme=dark"/>
 </div> -->
-
+<!--
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrsoy&hide_title=true&layout=compact&theme=tokyonight"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lrsoy&hide_title=true&show_icons=true&theme=tokyonight"/>
 </div>
 
- <div align="left"> <img src="https://metrics.lecoq.io/lrsoy?template=classic&config.timezone=Asia%2FShanghai"> </div> 
+ <div align="left"> <img src="https://metrics.lecoq.io/lrsoy?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
